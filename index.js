@@ -356,7 +356,7 @@ BotActivityFilter(conn);
     }
 
   const newsletterJids = [
-  "120363426106687970@newsletter",
+  "120363429539292697@newsletter",
 ];
   const emojis = ["❤️", "👍", "😮", "😎", "💀"];
 
